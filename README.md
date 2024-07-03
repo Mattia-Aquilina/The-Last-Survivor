@@ -1,9 +1,8 @@
 # The Last Survivor
 
-
-# Introduction
 ***Please note***: This project was carried out together with : Francesco Forunato and Cristian Santaroni. For this reason, the original git hub, containing all commits, can be reached via the following link: [link](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-the-last-survivor). This repo is a re-upload so it can be viewed on my profile.
 
+# Introduction
 
 The Last Survivor is a survival arcade game. A player must survive endless waves of
 attacking zombies, earning points from killing or damaging zombies. These points can
