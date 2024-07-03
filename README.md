@@ -1,6 +1,15 @@
 # The Last Survivor
 
+
+# Introduction
 ***Please note***: This project was carried out together with : Francesco Forunato and Cristian Santaroni. For this reason, the original git hub, containing all commits, can be reached via the following link: [link](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-the-last-survivor). This repo is a re-upload so it can be viewed on my profile.
+
+
+The Last Survivor is a survival arcade game. A player must survive endless waves of
+attacking zombies, earning points from killing or damaging zombies. These points can
+be used to purchase weapons. Zombies spawn in the player-area of the map in specific
+fixed spot. Zombies become higher numbers upon the completion of each round. The
+game ends when the player has been taken down by the zombies.
 
 
 Final project for the course of Interactive Graphics 2022/2023.
